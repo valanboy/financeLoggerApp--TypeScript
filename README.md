@@ -1,6 +1,6 @@
 # Finance Logger App
 
-# Live link: https://gilbertsfinancelogger.netlify.app/
+### Live link: https://gilbertsfinancelogger.netlify.app/
 
 ### Technologies
 * _html_
